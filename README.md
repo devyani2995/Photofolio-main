@@ -1,5 +1,5 @@
 # Photofolio App
-[PhotoFolio] is an online photo album react app that allows users to upload, organize, and share their digital photos.
+PhotoFolio is an online photo album react app that allows users to upload, organize, and share their digital photos.
 
 ## Functionalities
 - PhotoFolio App allow users to maintain images by category in various Albums.
